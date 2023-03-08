@@ -8,7 +8,7 @@ User can input level at the beginning of the game.
 <img src="Data/gameplay.png" alt="gameplay" width="350" height="350">
 
 ### **Three consecutive mistakes:**
-Answer is given for the question the user gets wrong 3 times.
+Answer is given for the question the user gets wrong thrice.
 
 <img src="Data/mistakes2.png" alt="mistakes" width="350" height="350">
 
